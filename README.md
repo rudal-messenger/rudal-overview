@@ -9,7 +9,7 @@ npm start
 ```
 
 ### 🌍 Deploy to GitHub Pages
-1. Already configured for https://rudal-messenger.github.io/rudal-landing
+1. Already configured for https://rudal-messenger.github.io/rudal-overview
 2. Just run:
    ```bash
    npm run deploy

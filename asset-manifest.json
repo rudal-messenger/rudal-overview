@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rudal-overview/static/css/main.ed74137e.css",
-    "main.js": "/rudal-overview/static/js/main.136453bf.js",
+    "main.css": "/rudal-overview/static/css/main.5441c941.css",
+    "main.js": "/rudal-overview/static/js/main.41da482d.js",
     "index.html": "/rudal-overview/index.html",
-    "main.ed74137e.css.map": "/rudal-overview/static/css/main.ed74137e.css.map",
-    "main.136453bf.js.map": "/rudal-overview/static/js/main.136453bf.js.map"
+    "main.5441c941.css.map": "/rudal-overview/static/css/main.5441c941.css.map",
+    "main.41da482d.js.map": "/rudal-overview/static/js/main.41da482d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed74137e.css",
-    "static/js/main.136453bf.js"
+    "static/css/main.5441c941.css",
+    "static/js/main.41da482d.js"
   ]
 }
